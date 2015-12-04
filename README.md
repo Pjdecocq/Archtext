@@ -2,7 +2,7 @@
 Wordpress plugin for creating Archtext effect.
 
 # Usage:
-Use "[archtext][/archtext]" shortcode in the Wordpress editor. You're able to give 3 options with it.
+Use <strong>"[archtext][/archtext]"</strong> shortcode in the Wordpress editor. You're able to give 3 options with it.
   - fromSize: int
   - toSize:   int
   - split:    "yes/no"
