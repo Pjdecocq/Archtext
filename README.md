@@ -10,5 +10,5 @@ Use "[archtext][/archtext]" shortcode in the Wordpress editor. You're able to gi
 
 # Explanation of option values
 fromSize  // Biggest font size (default value of 50)<br>
-toSize    // Smallest font size (default value of 20)
-split     // Give archtext to each word or give archtext to whole sentence (default value "yes")
+toSize    // Smallest font size (default value of 20)<br>
+split     // Give archtext to each word or give archtext to whole sentence (default value "yes")<br>
