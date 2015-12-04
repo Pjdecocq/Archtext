@@ -12,3 +12,8 @@ Use <strong>"[archtext][/archtext]"</strong> shortcode in the Wordpress editor. 
 fromSize  // Biggest font size (default value of 50)<br>
 toSize    // Smallest font size (default value of 20)<br>
 split     // Give archtext to each word or give archtext to whole sentence (default value "yes")<br>
+
+
+# Example shortcode with options
+
+<strong>[archtext fromSize="100" toSize="40" split="no"]</strong>
