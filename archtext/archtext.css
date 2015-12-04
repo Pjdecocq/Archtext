@@ -1,1 +1,7 @@
-
+/*
+ * Arch Text (Standard style)	
+**/
+span.archtext {
+  display:inline-block;
+  font-family:'Roboto Slab', sans-serif;
+}
